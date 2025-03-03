@@ -1,0 +1,56 @@
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\bin\Debug\net8.0\KidneyProject.exe
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\bin\Debug\net8.0\KidneyProject.deps.json
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\bin\Debug\net8.0\KidneyProject.runtimeconfig.json
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\bin\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\bin\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfoInputs.cache
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfo.cs
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.csproj.CoreCompileInputs.cache
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\refint\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\KidneyProject.genruntimeconfig.cache
+C:\Users\shimr\OneDrive\Desktop\kidney 1\KidneyProject\obj\Debug\net8.0\ref\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\bin\Debug\net8.0\KidneyProject.exe
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\bin\Debug\net8.0\KidneyProject.deps.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\bin\Debug\net8.0\KidneyProject.runtimeconfig.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\bin\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\bin\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfoInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfo.cs
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.csproj.CoreCompileInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\refint\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\KidneyProject.genruntimeconfig.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final\KidneyProject\obj\Debug\net8.0\ref\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\bin\Debug\net8.0\KidneyProject.exe
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\bin\Debug\net8.0\KidneyProject.deps.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\bin\Debug\net8.0\KidneyProject.runtimeconfig.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\bin\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\bin\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfoInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfo.cs
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.csproj.CoreCompileInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\refint\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\KidneyProject.genruntimeconfig.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy\KidneyProject\obj\Debug\net8.0\ref\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\bin\Debug\net8.0\KidneyProject.exe
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\bin\Debug\net8.0\KidneyProject.deps.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\bin\Debug\net8.0\KidneyProject.runtimeconfig.json
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\bin\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\bin\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfoInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.AssemblyInfo.cs
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.csproj.CoreCompileInputs.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\refint\KidneyProject.dll
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.pdb
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\KidneyProject.genruntimeconfig.cache
+C:\Users\shimr\OneDrive\Desktop\KIdney final - Copy - Copy2\KidneyProject\obj\Debug\net8.0\ref\KidneyProject.dll
